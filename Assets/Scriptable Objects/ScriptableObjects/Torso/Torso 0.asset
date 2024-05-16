@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d56554f0f28e3174b9b0f26242568028, type: 3}
+  m_Name: Torso 0
+  m_EditorClassIdentifier: 
+  bodyPartName: Common shirt
+  bodyPartAnimationID: 0
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: fc121423204fb804caf8dbbe96bd2171, type: 2}
+  - {fileID: 7400000, guid: 87cc8250bdf86b747a1852b2e0b0e13e, type: 2}
+  - {fileID: 7400000, guid: 46e55b01f3f362b488c447e264a9b603, type: 2}
+  - {fileID: 7400000, guid: aff812bcb07fa0f4aa8667463b32480f, type: 2}
+  - {fileID: 7400000, guid: dcc267191662ffe41b6f52a2a45e2152, type: 2}
+  - {fileID: 7400000, guid: 8e08989dd9130e44fb1e2d8d847f6488, type: 2}
+  - {fileID: 7400000, guid: b48394337dc10e54687c9fa5805f772d, type: 2}
+  - {fileID: 7400000, guid: 46bfd575c21839949b7a4e545aa739b4, type: 2}

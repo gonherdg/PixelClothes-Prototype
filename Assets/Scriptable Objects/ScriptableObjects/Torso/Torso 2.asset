@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d56554f0f28e3174b9b0f26242568028, type: 3}
+  m_Name: Torso 2
+  m_EditorClassIdentifier: 
+  bodyPartName: Cleric's robe
+  bodyPartAnimationID: 2
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: 3f3796c624d19864bb1943aa17af468d, type: 2}
+  - {fileID: 7400000, guid: 2651c271b88aa554c8762d13bffa8bea, type: 2}
+  - {fileID: 7400000, guid: b5124cbc24cd67b4d91968381300501f, type: 2}
+  - {fileID: 7400000, guid: ab5518c1f4408714f90b6ecec278a718, type: 2}
+  - {fileID: 7400000, guid: 723596f879cd44a46ad7d6c6b7619555, type: 2}
+  - {fileID: 7400000, guid: 0e57d11a20e46bf41b1b2f52e330890e, type: 2}
+  - {fileID: 7400000, guid: 2bdea3ac2ae1030409b36945a614c939, type: 2}
+  - {fileID: 7400000, guid: 5254232e4f8fc364884b58a6188f5ebd, type: 2}

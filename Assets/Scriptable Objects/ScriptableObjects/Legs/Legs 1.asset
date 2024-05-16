@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d56554f0f28e3174b9b0f26242568028, type: 3}
+  m_Name: Legs 1
+  m_EditorClassIdentifier: 
+  bodyPartName: Ranger pants
+  bodyPartAnimationID: 1
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: 8ee63f0eddb6b90489513ad0b44c7b8e, type: 2}
+  - {fileID: 7400000, guid: f3e7f169156462a4aa2cdb7ad86c9bb0, type: 2}
+  - {fileID: 7400000, guid: 8073e679359509146875c66c24f20632, type: 2}
+  - {fileID: 7400000, guid: 15c8c8e9e75f18543a805dd60bd8c1d5, type: 2}
+  - {fileID: 7400000, guid: 7de7a91c91547274c9a9ac93a5e79a2d, type: 2}
+  - {fileID: 7400000, guid: fe04f4ab05d5e4946ae0c5665638a824, type: 2}
+  - {fileID: 7400000, guid: 108931d585418f74e990f1d4bcb6fa32, type: 2}
+  - {fileID: 7400000, guid: c01219d9b48c9a24b808949496e11872, type: 2}

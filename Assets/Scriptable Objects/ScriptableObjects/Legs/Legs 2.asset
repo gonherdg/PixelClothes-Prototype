@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d56554f0f28e3174b9b0f26242568028, type: 3}
+  m_Name: Legs 2
+  m_EditorClassIdentifier: 
+  bodyPartName: Cleric's pants
+  bodyPartAnimationID: 2
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: 30439f5750a3c5349a7d447eec650954, type: 2}
+  - {fileID: 7400000, guid: 15f67e17e80d86842916e05c050eec77, type: 2}
+  - {fileID: 7400000, guid: 0f23ccadea4412e449584ecc927c04ac, type: 2}
+  - {fileID: 7400000, guid: 01aff7df1f974f24c9be47bb96ced826, type: 2}
+  - {fileID: 7400000, guid: a5461e9ba75b69c4c8b65642ac06f116, type: 2}
+  - {fileID: 7400000, guid: d06118e2744f92b4aa592e875c7bdbd1, type: 2}
+  - {fileID: 7400000, guid: f32bd4cccdab85341b351e9bd5285e4f, type: 2}
+  - {fileID: 7400000, guid: c582cfaf419363147bd4e9aa2c705d4f, type: 2}

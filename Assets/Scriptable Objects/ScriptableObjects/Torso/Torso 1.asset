@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d56554f0f28e3174b9b0f26242568028, type: 3}
+  m_Name: Torso 1
+  m_EditorClassIdentifier: 
+  bodyPartName: Ranger's cape
+  bodyPartAnimationID: 1
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: ffd3a6ca3966cec408ee85302d706f99, type: 2}
+  - {fileID: 7400000, guid: 9e582e510dd3b8a478ef53333e5320f5, type: 2}
+  - {fileID: 7400000, guid: 93b1a965d80a7d649a51639ffd114174, type: 2}
+  - {fileID: 7400000, guid: 4a07522452334a44b866b2dd8123bc0d, type: 2}
+  - {fileID: 7400000, guid: 8d355c35e7414ab48b8c0c33f3e5b425, type: 2}
+  - {fileID: 7400000, guid: d0ece255fccad484da8fb6444bae9c4a, type: 2}
+  - {fileID: 7400000, guid: b3e6548fe7d32d746be9f5f3d594498d, type: 2}
+  - {fileID: 7400000, guid: 77d0eeb33a25da447bfb0c7b21d55b59, type: 2}
