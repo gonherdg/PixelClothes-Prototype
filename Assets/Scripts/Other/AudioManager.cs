@@ -1,6 +1,5 @@
 using UnityEngine;
 using System.Collections;
-using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class AudioManager : MonoBehaviour
 {
@@ -15,6 +14,8 @@ public class AudioManager : MonoBehaviour
     public float masterVolumePercent { get; private set; }
     public float sfxVolumePercent { get; private set; }
     public float musicVolumePercent;
+
+    public AudioClip[] audioClips;
 
     //AudioSource sfx2DSource;
     AudioSource[] musicSources;
@@ -86,7 +87,6 @@ public class AudioManager : MonoBehaviour
 
 
     }
-
 
     public void SetVolume(float volumePercent, AudioChannel channel)
     {

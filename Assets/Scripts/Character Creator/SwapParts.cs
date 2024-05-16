@@ -13,14 +13,19 @@ public class SwapParts : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Q))
         {
-            bodyPartsSelector.NextBodyPart(2);
-            bodyPartsManager.UpdateBodyParts();
+            SwapPart(2);
         }
 
         if (Input.GetKeyDown(KeyCode.E))
         {
-            bodyPartsSelector.NextBodyPart(3);
-            bodyPartsManager.UpdateBodyParts();
+            SwapPart(3);
         }
+    }
+
+    private void SwapPart(int part)
+    {
+        bodyPartsSelector.NextBodyPart(part);
+        bodyPartsManager.UpdateBodyParts();
+        AudioManager.instance.PlayFlatSound(AudioManager.instance.audioClips[0]);
     }
 }
